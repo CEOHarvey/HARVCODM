@@ -1,5 +1,14 @@
 {
   "version": "1.6.57",
+  "mod": "HRBY MODS",
+  "config": {
+    "ENCODED_KEY": "SGV4YWJ5dGVMZXkxMjM0NQ==",
+    "ENCODED_URL": "https://github.com/CEOHarvey/HARVCODM/releases/download/v1.6.57/libfree_enc.so",
+    "libname": "payload.dat",
+    "GameActivity": "com.tencent.tmgp.cod.CODMainActivity",
+    "ENABLE_SIGNATURE_CHECK": false,
+    "STRICT_SECURITY_MODE": false
+  },
   "keys": [
     "HARV-CODM-0001-XXXX",
     "HARV-CODM-0002-XXXX",
